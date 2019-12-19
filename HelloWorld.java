@@ -2,7 +2,7 @@ public class HelloWorld {
 
     public static void main(String[] args) {
         // Prints "Hello, World" to the terminal window.
-        System.out.println("Hello, vijayyyyyyy madddddddddddddddddddddddddddddddddddddddddddddd");
+        System.out.println("Hello, good morning");
     }
 
 }
